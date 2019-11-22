@@ -1,0 +1,7 @@
+{
+	"cv_key": "AZURE_KEY",
+	"cv_region": "AZURE_REGION",
+	"line_channel_token": "LINE_TOKEN",
+	"image_root_url": "https://example.com/images/",
+	"processing_dir": "/path/to/image/output"
+}

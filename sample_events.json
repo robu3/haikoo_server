@@ -1,0 +1,32 @@
+{
+  "destination": "xxxxxxxxxx", 
+  "events": [
+	{
+	  "replyToken": "nHuyWiB7yP5Zw52FIkcQobQuGDXCTA",
+	  "type": "message",
+	  "timestamp": 1462629479859,
+	  "source": {
+		"type": "user",
+		"userId": "U4af4980629..."
+	  },
+	  "message": {
+		"id": "325708",
+		"type": "image",
+		"contentProvider": {
+		  "type": "external",
+		  "originalContentUrl": "https://example.com/original.mp4",
+		  "previewImageUrl": "https://example.com/preview.jpg"
+		}
+	  }
+	},
+    {
+      "replyToken": "8cf9239d56244f4197887e939187e19e",
+      "type": "follow",
+      "timestamp": 1462629479859,
+      "source": {
+        "type": "user",
+        "userId": "U4af4980629..."
+      }
+    }
+  ]
+}

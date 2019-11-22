@@ -1,0 +1,19 @@
+{
+    "events": [
+        {
+            "type": "message",
+            "replyToken": "REPLY_TOKEN",
+            "source": {
+                "userId": "USER_ID",
+                "type": "user"
+            },
+            "timestamp": 1569293869921,
+            "message": {
+                "type": "text",
+                "id": "MESSAGE_ID",
+                "text": "Testing?"
+            }
+        }
+    ],
+    "destination": "DESTINATION_ID"
+}

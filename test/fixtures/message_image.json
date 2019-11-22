@@ -1,0 +1,21 @@
+{
+    "events": [
+        {
+            "type": "message",
+            "replyToken": "TOKEN",
+            "source": {
+                "userId": "USER_ID",
+                "type": "user"
+            },
+            "timestamp": 1569294180988,
+            "message": {
+                "type": "image",
+                "id": "MESSAGE_ID",
+                "contentProvider": {
+                    "type": "line"
+                }
+            }
+        }
+    ],
+    "destination": "DESTINATION_ID"
+}

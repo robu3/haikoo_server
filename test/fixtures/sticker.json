@@ -1,0 +1,20 @@
+{
+    "events": [
+        {
+            "type": "message",
+            "replyToken": "REPLY_TOKEN",
+            "source": {
+                "userId": "USER_ID",
+                "type": "user"
+            },
+            "timestamp": 1569294096474,
+            "message": {
+                "type": "sticker",
+                "id": "MESSAGE_ID",
+                "stickerId": "51626531",
+                "packageId": "11538"
+            }
+        }
+    ],
+    "destination": "DESTINATION_ID"
+}
